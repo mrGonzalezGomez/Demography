@@ -1,7 +1,3 @@
-Based on the content of the `main.py` file, here's a draft for a README document for your project:
-
----
-
 # Project Math: Demography Analyzer
 
 ## Overview

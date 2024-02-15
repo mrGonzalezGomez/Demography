@@ -45,11 +45,3 @@ For usage instructions, run:
 ## Contributing
 
 Contributions to the Demography Analyzer are welcome. Please ensure to follow coding standards and include tests with your pull requests.
-
-## License
-
-Specify your licensing information here.
-
----
-
-Please replace placeholders like the licensing information with the actual data relevant to your project. This README provides a basic structure and may need adjustments based on your project specifics or additional features you might want to highlight.
